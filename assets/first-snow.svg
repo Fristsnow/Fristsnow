@@ -2,102 +2,102 @@
   <title>Fristsnow · Full-stack developer</title>
   <defs>
     <clipPath id="frame"><rect y="53" width="1000" height="222" rx="18"/></clipPath>
-    <linearGradient id="bg" x2="100%" y2="100%"><stop stop-color="#090b16"/><stop offset="1" stop-color="#10132b"/></linearGradient>
-    <linearGradient id="type" x2="100%" y2="100%"><stop stop-color="#ffffff"/><stop offset="1" stop-color="#afbaff"/></linearGradient>
-    <linearGradient id="ring"><stop stop-color="#43e6ff"/><stop offset=".55" stop-color="#7e72ff"/><stop offset="1" stop-color="#d698ff"/></linearGradient>
-    <radialGradient id="aurora"><stop stop-color="#6144cd" stop-opacity=".9"/><stop offset=".55" stop-color="#4431a0" stop-opacity=".45"/><stop offset="1" stop-color="#231856" stop-opacity="0"/></radialGradient>
-    <radialGradient id="blue"><stop stop-color="#265aac" stop-opacity=".56"/><stop offset="1" stop-color="#173979" stop-opacity="0"/></radialGradient>
-    <radialGradient id="core"><stop stop-color="#d4d8ff"/><stop offset=".2" stop-color="#8475ff" stop-opacity=".85"/><stop offset="1" stop-color="#6e62ff" stop-opacity="0"/></radialGradient>
+
+
+    <linearGradient id="ring"><stop stop-color="#8b9eaf"/><stop offset=".55" stop-color="#647c91"/><stop offset="1" stop-color="#9bacba"/></linearGradient>
+
+
+
   </defs>
   <g clip-path="url(#frame)">
-    <rect width="1000" height="330" fill="url(#bg)"/>
-    <ellipse cx="850" cy="186" rx="315" ry="248" fill="url(#aurora)"/>
-    <ellipse cx="755" cy="314" rx="360" ry="169" fill="url(#blue)"/>
-    <circle cx='564' cy='287' r='0.90' fill='#d8e5ff' opacity='.23'><animate attributeName='opacity' values='.16;.72;.16' dur='4s' begin='-1s' repeatCount='indefinite'/></circle>
-    <circle cx='229' cy='73' r='1.3' fill='#d8e5ff' opacity='.23'><animate attributeName='opacity' values='.16;.72;.16' dur='8s' begin='-5s' repeatCount='indefinite'/></circle>
-    <circle cx='124' cy='168' r='1.8' fill='#d8e5ff' opacity='.23'><animate attributeName='opacity' values='.16;.72;.16' dur='8s' begin='-4s' repeatCount='indefinite'/></circle>
-    <circle cx='6' cy='45' r='0.65' fill='#d8e5ff' opacity='.23'><animate attributeName='opacity' values='.16;.72;.16' dur='6s' begin='-2s' repeatCount='indefinite'/></circle>
-    <circle cx='332' cy='273' r='0.90' fill='#d8e5ff' opacity='.23'><animate attributeName='opacity' values='.16;.72;.16' dur='10s' begin='-1s' repeatCount='indefinite'/></circle>
-    <circle cx='711' cy='315' r='1.3' fill='#d8e5ff' opacity='.23'><animate attributeName='opacity' values='.16;.72;.16' dur='9s' begin='-6s' repeatCount='indefinite'/></circle>
-    <circle cx='734' cy='89' r='1.8' fill='#d8e5ff' opacity='.23'><animate attributeName='opacity' values='.16;.72;.16' dur='7s' begin='-3s' repeatCount='indefinite'/></circle>
-    <circle cx='198' cy='42' r='0.65' fill='#d8e5ff' opacity='.23'><animate attributeName='opacity' values='.16;.72;.16' dur='7s' begin='-1s' repeatCount='indefinite'/></circle>
-    <circle cx='272' cy='17' r='0.90' fill='#d8e5ff' opacity='.23'><animate attributeName='opacity' values='.16;.72;.16' dur='5s' begin='-2s' repeatCount='indefinite'/></circle>
-    <circle cx='952' cy='88' r='1.3' fill='#d8e5ff' opacity='.23'><animate attributeName='opacity' values='.16;.72;.16' dur='6s' begin='-3s' repeatCount='indefinite'/></circle>
-    <circle cx='456' cy='164' r='1.8' fill='#d8e5ff' opacity='.23'><animate attributeName='opacity' values='.16;.72;.16' dur='4s' begin='-2s' repeatCount='indefinite'/></circle>
-    <circle cx='142' cy='5' r='0.65' fill='#d8e5ff' opacity='.23'><animate attributeName='opacity' values='.16;.72;.16' dur='5s' begin='-3s' repeatCount='indefinite'/></circle>
-    <circle cx='159' cy='22' r='0.90' fill='#d8e5ff' opacity='.23'><animate attributeName='opacity' values='.16;.72;.16' dur='10s' begin='-7s' repeatCount='indefinite'/></circle>
-    <circle cx='215' cy='65' r='1.3' fill='#d8e5ff' opacity='.23'><animate attributeName='opacity' values='.16;.72;.16' dur='8s' begin='-5s' repeatCount='indefinite'/></circle>
-    <circle cx='30' cy='134' r='1.8' fill='#d8e5ff' opacity='.23'><animate attributeName='opacity' values='.16;.72;.16' dur='6s' begin='-5s' repeatCount='indefinite'/></circle>
-    <circle cx='782' cy='51' r='0.65' fill='#d8e5ff' opacity='.23'><animate attributeName='opacity' values='.16;.72;.16' dur='6s' begin='-1s' repeatCount='indefinite'/></circle>
-    <circle cx='54' cy='213' r='0.90' fill='#d8e5ff' opacity='.23'><animate attributeName='opacity' values='.16;.72;.16' dur='5s' begin='-4s' repeatCount='indefinite'/></circle>
-    <circle cx='852' cy='23' r='1.3' fill='#d8e5ff' opacity='.23'><animate attributeName='opacity' values='.16;.72;.16' dur='6s' begin='-1s' repeatCount='indefinite'/></circle>
-    <circle cx='449' cy='126' r='1.8' fill='#d8e5ff' opacity='.23'><animate attributeName='opacity' values='.16;.72;.16' dur='8s' begin='-2s' repeatCount='indefinite'/></circle>
-    <circle cx='928' cy='99' r='0.65' fill='#d8e5ff' opacity='.23'><animate attributeName='opacity' values='.16;.72;.16' dur='7s' begin='-5s' repeatCount='indefinite'/></circle>
-    <circle cx='34' cy='227' r='0.90' fill='#d8e5ff' opacity='.23'><animate attributeName='opacity' values='.16;.72;.16' dur='6s' begin='-1s' repeatCount='indefinite'/></circle>
-    <circle cx='185' cy='256' r='1.3' fill='#d8e5ff' opacity='.23'><animate attributeName='opacity' values='.16;.72;.16' dur='9s' begin='-1s' repeatCount='indefinite'/></circle>
-    <circle cx='431' cy='221' r='1.8' fill='#d8e5ff' opacity='.23'><animate attributeName='opacity' values='.16;.72;.16' dur='6s' begin='-3s' repeatCount='indefinite'/></circle>
-    <circle cx='937' cy='140' r='0.65' fill='#d8e5ff' opacity='.23'><animate attributeName='opacity' values='.16;.72;.16' dur='9s' begin='-3s' repeatCount='indefinite'/></circle>
-    <circle cx='115' cy='13' r='0.90' fill='#d8e5ff' opacity='.23'><animate attributeName='opacity' values='.16;.72;.16' dur='7s' begin='-3s' repeatCount='indefinite'/></circle>
-    <circle cx='790' cy='92' r='1.3' fill='#d8e5ff' opacity='.23'><animate attributeName='opacity' values='.16;.72;.16' dur='10s' begin='-1s' repeatCount='indefinite'/></circle>
-    <circle cx='771' cy='284' r='1.8' fill='#d8e5ff' opacity='.23'><animate attributeName='opacity' values='.16;.72;.16' dur='5s' begin='-4s' repeatCount='indefinite'/></circle>
-    <circle cx='583' cy='132' r='0.65' fill='#d8e5ff' opacity='.23'><animate attributeName='opacity' values='.16;.72;.16' dur='8s' begin='-6s' repeatCount='indefinite'/></circle>
-    <circle cx='865' cy='195' r='0.90' fill='#d8e5ff' opacity='.23'><animate attributeName='opacity' values='.16;.72;.16' dur='10s' begin='-1s' repeatCount='indefinite'/></circle>
-    <circle cx='811' cy='83' r='1.3' fill='#d8e5ff' opacity='.23'><animate attributeName='opacity' values='.16;.72;.16' dur='9s' begin='-3s' repeatCount='indefinite'/></circle>
-    <circle cx='810' cy='47' r='1.8' fill='#d8e5ff' opacity='.23'><animate attributeName='opacity' values='.16;.72;.16' dur='7s' begin='-2s' repeatCount='indefinite'/></circle>
-    <circle cx='772' cy='241' r='0.65' fill='#d8e5ff' opacity='.23'><animate attributeName='opacity' values='.16;.72;.16' dur='4s' begin='-1s' repeatCount='indefinite'/></circle>
-    <circle cx='645' cy='101' r='0.90' fill='#d8e5ff' opacity='.23'><animate attributeName='opacity' values='.16;.72;.16' dur='4s' begin='-3s' repeatCount='indefinite'/></circle>
-    <circle cx='794' cy='18' r='1.3' fill='#d8e5ff' opacity='.23'><animate attributeName='opacity' values='.16;.72;.16' dur='10s' begin='-7s' repeatCount='indefinite'/></circle>
-    <circle cx='804' cy='81' r='1.8' fill='#d8e5ff' opacity='.23'><animate attributeName='opacity' values='.16;.72;.16' dur='6s' begin='-2s' repeatCount='indefinite'/></circle>
-    <circle cx='556' cy='4' r='0.65' fill='#d8e5ff' opacity='.23'><animate attributeName='opacity' values='.16;.72;.16' dur='7s' begin='-1s' repeatCount='indefinite'/></circle>
-    <circle cx='10' cy='184' r='0.90' fill='#d8e5ff' opacity='.23'><animate attributeName='opacity' values='.16;.72;.16' dur='8s' begin='-3s' repeatCount='indefinite'/></circle>
-    <circle cx='496' cy='211' r='1.3' fill='#d8e5ff' opacity='.23'><animate attributeName='opacity' values='.16;.72;.16' dur='7s' begin='-6s' repeatCount='indefinite'/></circle>
-    <circle cx='217' cy='78' r='1.8' fill='#d8e5ff' opacity='.23'><animate attributeName='opacity' values='.16;.72;.16' dur='8s' begin='-5s' repeatCount='indefinite'/></circle>
-    <circle cx='745' cy='232' r='0.65' fill='#d8e5ff' opacity='.23'><animate attributeName='opacity' values='.16;.72;.16' dur='6s' begin='-1s' repeatCount='indefinite'/></circle>
-    <circle cx='739' cy='68' r='0.90' fill='#d8e5ff' opacity='.23'><animate attributeName='opacity' values='.16;.72;.16' dur='5s' begin='-2s' repeatCount='indefinite'/></circle>
-    <circle cx='298' cy='252' r='1.3' fill='#d8e5ff' opacity='.23'><animate attributeName='opacity' values='.16;.72;.16' dur='10s' begin='-8s' repeatCount='indefinite'/></circle>
-    <circle cx='657' cy='58' r='1.8' fill='#d8e5ff' opacity='.23'><animate attributeName='opacity' values='.16;.72;.16' dur='5s' begin='-3s' repeatCount='indefinite'/></circle>
-    <circle cx='880' cy='165' r='0.65' fill='#d8e5ff' opacity='.23'><animate attributeName='opacity' values='.16;.72;.16' dur='8s' begin='-6s' repeatCount='indefinite'/></circle>
-    <circle cx='642' cy='164' r='0.90' fill='#d8e5ff' opacity='.23'><animate attributeName='opacity' values='.16;.72;.16' dur='5s' begin='-1s' repeatCount='indefinite'/></circle>
-    <circle cx='58' cy='256' r='1.3' fill='#d8e5ff' opacity='.23'><animate attributeName='opacity' values='.16;.72;.16' dur='7s' begin='-1s' repeatCount='indefinite'/></circle>
-    <circle cx='810' cy='79' r='1.8' fill='#d8e5ff' opacity='.23'><animate attributeName='opacity' values='.16;.72;.16' dur='8s' begin='-4s' repeatCount='indefinite'/></circle>
-    <circle cx='373' cy='93' r='0.65' fill='#d8e5ff' opacity='.23'><animate attributeName='opacity' values='.16;.72;.16' dur='4s' begin='-1s' repeatCount='indefinite'/></circle>
-    <circle cx='919' cy='109' r='0.90' fill='#d8e5ff' opacity='.23'><animate attributeName='opacity' values='.16;.72;.16' dur='8s' begin='-3s' repeatCount='indefinite'/></circle>
-    <circle cx='814' cy='72' r='1.3' fill='#d8e5ff' opacity='.23'><animate attributeName='opacity' values='.16;.72;.16' dur='9s' begin='-2s' repeatCount='indefinite'/></circle>
-    <circle cx='624' cy='282' r='1.8' fill='#d8e5ff' opacity='.23'><animate attributeName='opacity' values='.16;.72;.16' dur='8s' begin='-3s' repeatCount='indefinite'/></circle>
-    <circle cx='358' cy='301' r='0.65' fill='#d8e5ff' opacity='.23'><animate attributeName='opacity' values='.16;.72;.16' dur='10s' begin='-7s' repeatCount='indefinite'/></circle>
-    <circle cx='521' cy='284' r='0.90' fill='#d8e5ff' opacity='.23'><animate attributeName='opacity' values='.16;.72;.16' dur='4s' begin='-1s' repeatCount='indefinite'/></circle>
-    <circle cx='535' cy='37' r='1.3' fill='#d8e5ff' opacity='.23'><animate attributeName='opacity' values='.16;.72;.16' dur='10s' begin='-9s' repeatCount='indefinite'/></circle>
-    <circle cx='673' cy='62' r='1.8' fill='#d8e5ff' opacity='.23'><animate attributeName='opacity' values='.16;.72;.16' dur='7s' begin='-1s' repeatCount='indefinite'/></circle>
-    <circle cx='91' cy='123' r='0.65' fill='#d8e5ff' opacity='.23'><animate attributeName='opacity' values='.16;.72;.16' dur='7s' begin='-3s' repeatCount='indefinite'/></circle>
-    <circle cx='165' cy='63' r='0.90' fill='#d8e5ff' opacity='.23'><animate attributeName='opacity' values='.16;.72;.16' dur='8s' begin='-4s' repeatCount='indefinite'/></circle>
-    <circle cx='926' cy='118' r='1.3' fill='#d8e5ff' opacity='.23'><animate attributeName='opacity' values='.16;.72;.16' dur='10s' begin='-4s' repeatCount='indefinite'/></circle>
-    <circle cx='761' cy='306' r='1.8' fill='#d8e5ff' opacity='.23'><animate attributeName='opacity' values='.16;.72;.16' dur='8s' begin='-2s' repeatCount='indefinite'/></circle>
-    <circle cx='99' cy='68' r='0.65' fill='#d8e5ff' opacity='.23'><animate attributeName='opacity' values='.16;.72;.16' dur='8s' begin='-7s' repeatCount='indefinite'/></circle>
-    <circle cx='252' cy='317' r='0.90' fill='#d8e5ff' opacity='.23'><animate attributeName='opacity' values='.16;.72;.16' dur='4s' begin='-2s' repeatCount='indefinite'/></circle>
-    <circle cx='269' cy='248' r='1.3' fill='#d8e5ff' opacity='.23'><animate attributeName='opacity' values='.16;.72;.16' dur='7s' begin='-5s' repeatCount='indefinite'/></circle>
-    <circle cx='348' cy='202' r='1.8' fill='#d8e5ff' opacity='.23'><animate attributeName='opacity' values='.16;.72;.16' dur='8s' begin='-5s' repeatCount='indefinite'/></circle>
-    <circle cx='744' cy='220' r='0.65' fill='#d8e5ff' opacity='.23'><animate attributeName='opacity' values='.16;.72;.16' dur='5s' begin='-2s' repeatCount='indefinite'/></circle>
-    <circle cx='417' cy='103' r='0.90' fill='#d8e5ff' opacity='.23'><animate attributeName='opacity' values='.16;.72;.16' dur='5s' begin='-1s' repeatCount='indefinite'/></circle>
-    <circle cx='274' cy='141' r='1.3' fill='#d8e5ff' opacity='.23'><animate attributeName='opacity' values='.16;.72;.16' dur='9s' begin='-2s' repeatCount='indefinite'/></circle>
-    <circle cx='875' cy='191' r='1.8' fill='#d8e5ff' opacity='.23'><animate attributeName='opacity' values='.16;.72;.16' dur='7s' begin='-4s' repeatCount='indefinite'/></circle>
-    <circle cx='517' cy='258' r='0.65' fill='#d8e5ff' opacity='.23'><animate attributeName='opacity' values='.16;.72;.16' dur='10s' begin='-5s' repeatCount='indefinite'/></circle>
-    <circle cx='539' cy='189' r='0.90' fill='#d8e5ff' opacity='.23'><animate attributeName='opacity' values='.16;.72;.16' dur='9s' begin='-1s' repeatCount='indefinite'/></circle>
-    <circle cx='331' cy='308' r='1.3' fill='#d8e5ff' opacity='.23'><animate attributeName='opacity' values='.16;.72;.16' dur='4s' begin='-2s' repeatCount='indefinite'/></circle>
-    <circle cx='621' cy='272' r='1.8' fill='#d8e5ff' opacity='.23'><animate attributeName='opacity' values='.16;.72;.16' dur='5s' begin='-2s' repeatCount='indefinite'/></circle>
-    <circle cx='675' cy='119' r='0.65' fill='#d8e5ff' opacity='.23'><animate attributeName='opacity' values='.16;.72;.16' dur='8s' begin='-1s' repeatCount='indefinite'/></circle>
-    <circle cx='788' cy='111' r='0.90' fill='#d8e5ff' opacity='.23'><animate attributeName='opacity' values='.16;.72;.16' dur='9s' begin='-7s' repeatCount='indefinite'/></circle>
-    <circle cx='46' cy='156' r='1.3' fill='#d8e5ff' opacity='.23'><animate attributeName='opacity' values='.16;.72;.16' dur='8s' begin='-6s' repeatCount='indefinite'/></circle>
-    <circle cx='187' cy='286' r='1.8' fill='#d8e5ff' opacity='.23'><animate attributeName='opacity' values='.16;.72;.16' dur='8s' begin='-5s' repeatCount='indefinite'/></circle>
-    <circle cx='272' cy='315' r='0.65' fill='#d8e5ff' opacity='.23'><animate attributeName='opacity' values='.16;.72;.16' dur='6s' begin='-3s' repeatCount='indefinite'/></circle>
-    <circle cx='753' cy='70' r='0.90' fill='#d8e5ff' opacity='.23'><animate attributeName='opacity' values='.16;.72;.16' dur='4s' begin='-1s' repeatCount='indefinite'/></circle>
-    <circle cx='856' cy='11' r='1.3' fill='#d8e5ff' opacity='.23'><animate attributeName='opacity' values='.16;.72;.16' dur='10s' begin='-5s' repeatCount='indefinite'/></circle>
-    <circle cx='200' cy='247' r='1.8' fill='#d8e5ff' opacity='.23'><animate attributeName='opacity' values='.16;.72;.16' dur='7s' begin='-3s' repeatCount='indefinite'/></circle>
-    <circle cx='222' cy='155' r='0.65' fill='#d8e5ff' opacity='.23'><animate attributeName='opacity' values='.16;.72;.16' dur='7s' begin='-4s' repeatCount='indefinite'/></circle>
-    <circle cx='895' cy='130' r='0.90' fill='#d8e5ff' opacity='.23'><animate attributeName='opacity' values='.16;.72;.16' dur='9s' begin='-2s' repeatCount='indefinite'/></circle>
-    <circle cx='15' cy='26' r='1.3' fill='#d8e5ff' opacity='.23'><animate attributeName='opacity' values='.16;.72;.16' dur='6s' begin='-1s' repeatCount='indefinite'/></circle>
-    <circle cx='955' cy='323' r='1.8' fill='#d8e5ff' opacity='.23'><animate attributeName='opacity' values='.16;.72;.16' dur='10s' begin='-5s' repeatCount='indefinite'/></circle>
-    <circle cx='317' cy='140' r='0.65' fill='#d8e5ff' opacity='.23'><animate attributeName='opacity' values='.16;.72;.16' dur='4s' begin='-2s' repeatCount='indefinite'/></circle>
-    <circle cx='532' cy='213' r='0.90' fill='#d8e5ff' opacity='.23'><animate attributeName='opacity' values='.16;.72;.16' dur='7s' begin='-3s' repeatCount='indefinite'/></circle>
+
+
+
+    <circle cx='564' cy='287' r='0.90' fill='#718598' opacity='.23'><animate attributeName='opacity' values='.16;.72;.16' dur='4s' begin='-1s' repeatCount='indefinite'/></circle>
+    <circle cx='229' cy='73' r='1.3' fill='#718598' opacity='.23'><animate attributeName='opacity' values='.16;.72;.16' dur='8s' begin='-5s' repeatCount='indefinite'/></circle>
+    <circle cx='124' cy='168' r='1.8' fill='#718598' opacity='.23'><animate attributeName='opacity' values='.16;.72;.16' dur='8s' begin='-4s' repeatCount='indefinite'/></circle>
+    <circle cx='6' cy='45' r='0.65' fill='#718598' opacity='.23'><animate attributeName='opacity' values='.16;.72;.16' dur='6s' begin='-2s' repeatCount='indefinite'/></circle>
+    <circle cx='332' cy='273' r='0.90' fill='#718598' opacity='.23'><animate attributeName='opacity' values='.16;.72;.16' dur='10s' begin='-1s' repeatCount='indefinite'/></circle>
+    <circle cx='711' cy='315' r='1.3' fill='#718598' opacity='.23'><animate attributeName='opacity' values='.16;.72;.16' dur='9s' begin='-6s' repeatCount='indefinite'/></circle>
+    <circle cx='734' cy='89' r='1.8' fill='#718598' opacity='.23'><animate attributeName='opacity' values='.16;.72;.16' dur='7s' begin='-3s' repeatCount='indefinite'/></circle>
+    <circle cx='198' cy='42' r='0.65' fill='#718598' opacity='.23'><animate attributeName='opacity' values='.16;.72;.16' dur='7s' begin='-1s' repeatCount='indefinite'/></circle>
+    <circle cx='272' cy='17' r='0.90' fill='#718598' opacity='.23'><animate attributeName='opacity' values='.16;.72;.16' dur='5s' begin='-2s' repeatCount='indefinite'/></circle>
+    <circle cx='952' cy='88' r='1.3' fill='#718598' opacity='.23'><animate attributeName='opacity' values='.16;.72;.16' dur='6s' begin='-3s' repeatCount='indefinite'/></circle>
+    <circle cx='456' cy='164' r='1.8' fill='#718598' opacity='.23'><animate attributeName='opacity' values='.16;.72;.16' dur='4s' begin='-2s' repeatCount='indefinite'/></circle>
+    <circle cx='142' cy='5' r='0.65' fill='#718598' opacity='.23'><animate attributeName='opacity' values='.16;.72;.16' dur='5s' begin='-3s' repeatCount='indefinite'/></circle>
+    <circle cx='159' cy='22' r='0.90' fill='#718598' opacity='.23'><animate attributeName='opacity' values='.16;.72;.16' dur='10s' begin='-7s' repeatCount='indefinite'/></circle>
+    <circle cx='215' cy='65' r='1.3' fill='#718598' opacity='.23'><animate attributeName='opacity' values='.16;.72;.16' dur='8s' begin='-5s' repeatCount='indefinite'/></circle>
+    <circle cx='30' cy='134' r='1.8' fill='#718598' opacity='.23'><animate attributeName='opacity' values='.16;.72;.16' dur='6s' begin='-5s' repeatCount='indefinite'/></circle>
+    <circle cx='782' cy='51' r='0.65' fill='#718598' opacity='.23'><animate attributeName='opacity' values='.16;.72;.16' dur='6s' begin='-1s' repeatCount='indefinite'/></circle>
+    <circle cx='54' cy='213' r='0.90' fill='#718598' opacity='.23'><animate attributeName='opacity' values='.16;.72;.16' dur='5s' begin='-4s' repeatCount='indefinite'/></circle>
+    <circle cx='852' cy='23' r='1.3' fill='#718598' opacity='.23'><animate attributeName='opacity' values='.16;.72;.16' dur='6s' begin='-1s' repeatCount='indefinite'/></circle>
+    <circle cx='449' cy='126' r='1.8' fill='#718598' opacity='.23'><animate attributeName='opacity' values='.16;.72;.16' dur='8s' begin='-2s' repeatCount='indefinite'/></circle>
+    <circle cx='928' cy='99' r='0.65' fill='#718598' opacity='.23'><animate attributeName='opacity' values='.16;.72;.16' dur='7s' begin='-5s' repeatCount='indefinite'/></circle>
+    <circle cx='34' cy='227' r='0.90' fill='#718598' opacity='.23'><animate attributeName='opacity' values='.16;.72;.16' dur='6s' begin='-1s' repeatCount='indefinite'/></circle>
+    <circle cx='185' cy='256' r='1.3' fill='#718598' opacity='.23'><animate attributeName='opacity' values='.16;.72;.16' dur='9s' begin='-1s' repeatCount='indefinite'/></circle>
+    <circle cx='431' cy='221' r='1.8' fill='#718598' opacity='.23'><animate attributeName='opacity' values='.16;.72;.16' dur='6s' begin='-3s' repeatCount='indefinite'/></circle>
+    <circle cx='937' cy='140' r='0.65' fill='#718598' opacity='.23'><animate attributeName='opacity' values='.16;.72;.16' dur='9s' begin='-3s' repeatCount='indefinite'/></circle>
+    <circle cx='115' cy='13' r='0.90' fill='#718598' opacity='.23'><animate attributeName='opacity' values='.16;.72;.16' dur='7s' begin='-3s' repeatCount='indefinite'/></circle>
+    <circle cx='790' cy='92' r='1.3' fill='#718598' opacity='.23'><animate attributeName='opacity' values='.16;.72;.16' dur='10s' begin='-1s' repeatCount='indefinite'/></circle>
+    <circle cx='771' cy='284' r='1.8' fill='#718598' opacity='.23'><animate attributeName='opacity' values='.16;.72;.16' dur='5s' begin='-4s' repeatCount='indefinite'/></circle>
+    <circle cx='583' cy='132' r='0.65' fill='#718598' opacity='.23'><animate attributeName='opacity' values='.16;.72;.16' dur='8s' begin='-6s' repeatCount='indefinite'/></circle>
+    <circle cx='865' cy='195' r='0.90' fill='#718598' opacity='.23'><animate attributeName='opacity' values='.16;.72;.16' dur='10s' begin='-1s' repeatCount='indefinite'/></circle>
+    <circle cx='811' cy='83' r='1.3' fill='#718598' opacity='.23'><animate attributeName='opacity' values='.16;.72;.16' dur='9s' begin='-3s' repeatCount='indefinite'/></circle>
+    <circle cx='810' cy='47' r='1.8' fill='#718598' opacity='.23'><animate attributeName='opacity' values='.16;.72;.16' dur='7s' begin='-2s' repeatCount='indefinite'/></circle>
+    <circle cx='772' cy='241' r='0.65' fill='#718598' opacity='.23'><animate attributeName='opacity' values='.16;.72;.16' dur='4s' begin='-1s' repeatCount='indefinite'/></circle>
+    <circle cx='645' cy='101' r='0.90' fill='#718598' opacity='.23'><animate attributeName='opacity' values='.16;.72;.16' dur='4s' begin='-3s' repeatCount='indefinite'/></circle>
+    <circle cx='794' cy='18' r='1.3' fill='#718598' opacity='.23'><animate attributeName='opacity' values='.16;.72;.16' dur='10s' begin='-7s' repeatCount='indefinite'/></circle>
+    <circle cx='804' cy='81' r='1.8' fill='#718598' opacity='.23'><animate attributeName='opacity' values='.16;.72;.16' dur='6s' begin='-2s' repeatCount='indefinite'/></circle>
+    <circle cx='556' cy='4' r='0.65' fill='#718598' opacity='.23'><animate attributeName='opacity' values='.16;.72;.16' dur='7s' begin='-1s' repeatCount='indefinite'/></circle>
+    <circle cx='10' cy='184' r='0.90' fill='#718598' opacity='.23'><animate attributeName='opacity' values='.16;.72;.16' dur='8s' begin='-3s' repeatCount='indefinite'/></circle>
+    <circle cx='496' cy='211' r='1.3' fill='#718598' opacity='.23'><animate attributeName='opacity' values='.16;.72;.16' dur='7s' begin='-6s' repeatCount='indefinite'/></circle>
+    <circle cx='217' cy='78' r='1.8' fill='#718598' opacity='.23'><animate attributeName='opacity' values='.16;.72;.16' dur='8s' begin='-5s' repeatCount='indefinite'/></circle>
+    <circle cx='745' cy='232' r='0.65' fill='#718598' opacity='.23'><animate attributeName='opacity' values='.16;.72;.16' dur='6s' begin='-1s' repeatCount='indefinite'/></circle>
+    <circle cx='739' cy='68' r='0.90' fill='#718598' opacity='.23'><animate attributeName='opacity' values='.16;.72;.16' dur='5s' begin='-2s' repeatCount='indefinite'/></circle>
+    <circle cx='298' cy='252' r='1.3' fill='#718598' opacity='.23'><animate attributeName='opacity' values='.16;.72;.16' dur='10s' begin='-8s' repeatCount='indefinite'/></circle>
+    <circle cx='657' cy='58' r='1.8' fill='#718598' opacity='.23'><animate attributeName='opacity' values='.16;.72;.16' dur='5s' begin='-3s' repeatCount='indefinite'/></circle>
+    <circle cx='880' cy='165' r='0.65' fill='#718598' opacity='.23'><animate attributeName='opacity' values='.16;.72;.16' dur='8s' begin='-6s' repeatCount='indefinite'/></circle>
+    <circle cx='642' cy='164' r='0.90' fill='#718598' opacity='.23'><animate attributeName='opacity' values='.16;.72;.16' dur='5s' begin='-1s' repeatCount='indefinite'/></circle>
+    <circle cx='58' cy='256' r='1.3' fill='#718598' opacity='.23'><animate attributeName='opacity' values='.16;.72;.16' dur='7s' begin='-1s' repeatCount='indefinite'/></circle>
+    <circle cx='810' cy='79' r='1.8' fill='#718598' opacity='.23'><animate attributeName='opacity' values='.16;.72;.16' dur='8s' begin='-4s' repeatCount='indefinite'/></circle>
+    <circle cx='373' cy='93' r='0.65' fill='#718598' opacity='.23'><animate attributeName='opacity' values='.16;.72;.16' dur='4s' begin='-1s' repeatCount='indefinite'/></circle>
+    <circle cx='919' cy='109' r='0.90' fill='#718598' opacity='.23'><animate attributeName='opacity' values='.16;.72;.16' dur='8s' begin='-3s' repeatCount='indefinite'/></circle>
+    <circle cx='814' cy='72' r='1.3' fill='#718598' opacity='.23'><animate attributeName='opacity' values='.16;.72;.16' dur='9s' begin='-2s' repeatCount='indefinite'/></circle>
+    <circle cx='624' cy='282' r='1.8' fill='#718598' opacity='.23'><animate attributeName='opacity' values='.16;.72;.16' dur='8s' begin='-3s' repeatCount='indefinite'/></circle>
+    <circle cx='358' cy='301' r='0.65' fill='#718598' opacity='.23'><animate attributeName='opacity' values='.16;.72;.16' dur='10s' begin='-7s' repeatCount='indefinite'/></circle>
+    <circle cx='521' cy='284' r='0.90' fill='#718598' opacity='.23'><animate attributeName='opacity' values='.16;.72;.16' dur='4s' begin='-1s' repeatCount='indefinite'/></circle>
+    <circle cx='535' cy='37' r='1.3' fill='#718598' opacity='.23'><animate attributeName='opacity' values='.16;.72;.16' dur='10s' begin='-9s' repeatCount='indefinite'/></circle>
+    <circle cx='673' cy='62' r='1.8' fill='#718598' opacity='.23'><animate attributeName='opacity' values='.16;.72;.16' dur='7s' begin='-1s' repeatCount='indefinite'/></circle>
+    <circle cx='91' cy='123' r='0.65' fill='#718598' opacity='.23'><animate attributeName='opacity' values='.16;.72;.16' dur='7s' begin='-3s' repeatCount='indefinite'/></circle>
+    <circle cx='165' cy='63' r='0.90' fill='#718598' opacity='.23'><animate attributeName='opacity' values='.16;.72;.16' dur='8s' begin='-4s' repeatCount='indefinite'/></circle>
+    <circle cx='926' cy='118' r='1.3' fill='#718598' opacity='.23'><animate attributeName='opacity' values='.16;.72;.16' dur='10s' begin='-4s' repeatCount='indefinite'/></circle>
+    <circle cx='761' cy='306' r='1.8' fill='#718598' opacity='.23'><animate attributeName='opacity' values='.16;.72;.16' dur='8s' begin='-2s' repeatCount='indefinite'/></circle>
+    <circle cx='99' cy='68' r='0.65' fill='#718598' opacity='.23'><animate attributeName='opacity' values='.16;.72;.16' dur='8s' begin='-7s' repeatCount='indefinite'/></circle>
+    <circle cx='252' cy='317' r='0.90' fill='#718598' opacity='.23'><animate attributeName='opacity' values='.16;.72;.16' dur='4s' begin='-2s' repeatCount='indefinite'/></circle>
+    <circle cx='269' cy='248' r='1.3' fill='#718598' opacity='.23'><animate attributeName='opacity' values='.16;.72;.16' dur='7s' begin='-5s' repeatCount='indefinite'/></circle>
+    <circle cx='348' cy='202' r='1.8' fill='#718598' opacity='.23'><animate attributeName='opacity' values='.16;.72;.16' dur='8s' begin='-5s' repeatCount='indefinite'/></circle>
+    <circle cx='744' cy='220' r='0.65' fill='#718598' opacity='.23'><animate attributeName='opacity' values='.16;.72;.16' dur='5s' begin='-2s' repeatCount='indefinite'/></circle>
+    <circle cx='417' cy='103' r='0.90' fill='#718598' opacity='.23'><animate attributeName='opacity' values='.16;.72;.16' dur='5s' begin='-1s' repeatCount='indefinite'/></circle>
+    <circle cx='274' cy='141' r='1.3' fill='#718598' opacity='.23'><animate attributeName='opacity' values='.16;.72;.16' dur='9s' begin='-2s' repeatCount='indefinite'/></circle>
+    <circle cx='875' cy='191' r='1.8' fill='#718598' opacity='.23'><animate attributeName='opacity' values='.16;.72;.16' dur='7s' begin='-4s' repeatCount='indefinite'/></circle>
+    <circle cx='517' cy='258' r='0.65' fill='#718598' opacity='.23'><animate attributeName='opacity' values='.16;.72;.16' dur='10s' begin='-5s' repeatCount='indefinite'/></circle>
+    <circle cx='539' cy='189' r='0.90' fill='#718598' opacity='.23'><animate attributeName='opacity' values='.16;.72;.16' dur='9s' begin='-1s' repeatCount='indefinite'/></circle>
+    <circle cx='331' cy='308' r='1.3' fill='#718598' opacity='.23'><animate attributeName='opacity' values='.16;.72;.16' dur='4s' begin='-2s' repeatCount='indefinite'/></circle>
+    <circle cx='621' cy='272' r='1.8' fill='#718598' opacity='.23'><animate attributeName='opacity' values='.16;.72;.16' dur='5s' begin='-2s' repeatCount='indefinite'/></circle>
+    <circle cx='675' cy='119' r='0.65' fill='#718598' opacity='.23'><animate attributeName='opacity' values='.16;.72;.16' dur='8s' begin='-1s' repeatCount='indefinite'/></circle>
+    <circle cx='788' cy='111' r='0.90' fill='#718598' opacity='.23'><animate attributeName='opacity' values='.16;.72;.16' dur='9s' begin='-7s' repeatCount='indefinite'/></circle>
+    <circle cx='46' cy='156' r='1.3' fill='#718598' opacity='.23'><animate attributeName='opacity' values='.16;.72;.16' dur='8s' begin='-6s' repeatCount='indefinite'/></circle>
+    <circle cx='187' cy='286' r='1.8' fill='#718598' opacity='.23'><animate attributeName='opacity' values='.16;.72;.16' dur='8s' begin='-5s' repeatCount='indefinite'/></circle>
+    <circle cx='272' cy='315' r='0.65' fill='#718598' opacity='.23'><animate attributeName='opacity' values='.16;.72;.16' dur='6s' begin='-3s' repeatCount='indefinite'/></circle>
+    <circle cx='753' cy='70' r='0.90' fill='#718598' opacity='.23'><animate attributeName='opacity' values='.16;.72;.16' dur='4s' begin='-1s' repeatCount='indefinite'/></circle>
+    <circle cx='856' cy='11' r='1.3' fill='#718598' opacity='.23'><animate attributeName='opacity' values='.16;.72;.16' dur='10s' begin='-5s' repeatCount='indefinite'/></circle>
+    <circle cx='200' cy='247' r='1.8' fill='#718598' opacity='.23'><animate attributeName='opacity' values='.16;.72;.16' dur='7s' begin='-3s' repeatCount='indefinite'/></circle>
+    <circle cx='222' cy='155' r='0.65' fill='#718598' opacity='.23'><animate attributeName='opacity' values='.16;.72;.16' dur='7s' begin='-4s' repeatCount='indefinite'/></circle>
+    <circle cx='895' cy='130' r='0.90' fill='#718598' opacity='.23'><animate attributeName='opacity' values='.16;.72;.16' dur='9s' begin='-2s' repeatCount='indefinite'/></circle>
+    <circle cx='15' cy='26' r='1.3' fill='#718598' opacity='.23'><animate attributeName='opacity' values='.16;.72;.16' dur='6s' begin='-1s' repeatCount='indefinite'/></circle>
+    <circle cx='955' cy='323' r='1.8' fill='#718598' opacity='.23'><animate attributeName='opacity' values='.16;.72;.16' dur='10s' begin='-5s' repeatCount='indefinite'/></circle>
+    <circle cx='317' cy='140' r='0.65' fill='#718598' opacity='.23'><animate attributeName='opacity' values='.16;.72;.16' dur='4s' begin='-2s' repeatCount='indefinite'/></circle>
+    <circle cx='532' cy='213' r='0.90' fill='#718598' opacity='.23'><animate attributeName='opacity' values='.16;.72;.16' dur='7s' begin='-3s' repeatCount='indefinite'/></circle>
     <g fill="none" stroke-width=".9">
       <ellipse cx='848' cy='174' rx='188' ry='48' stroke='url(#ring)' opacity='0.11' transform='rotate(-31 848 174)'/>
       <ellipse cx='848' cy='178' rx='191' ry='52' stroke='url(#ring)' opacity='0.12' transform='rotate(-31 848 178)'/>
@@ -126,18 +126,18 @@
       <ellipse cx='848' cy='270' rx='260' ry='144' stroke='url(#ring)' opacity='0.25' transform='rotate(-31 848 270)'/>
       <ellipse cx='848' cy='274' rx='263' ry='148' stroke='url(#ring)' opacity='0.26' transform='rotate(-31 848 274)'/>
     </g>
-    <circle cx="846" cy="191" r="85" fill="url(#core)" opacity=".47"/>
+
     <path d="M566 304C610 313 734 285 850 208S1037 38 997 29" fill="none" stroke="url(#ring)" stroke-width="1.5" opacity=".65"/>
-    <circle r="3.5" fill="#d8faff">
+    <circle r="3.5" fill="#8199ae">
       <animateMotion path="M566 304C610 313 734 285 850 208S1037 38 997 29" dur="7s" repeatCount="indefinite"/>
       <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.12;.87;1" dur="7s" repeatCount="indefinite"/>
     </circle>
     <g font-family="Verdana, sans-serif">
-      <path d="M60 91h25" stroke="#81ddff" stroke-width="2"/>
-      <text x="98" y="96" fill="#b9c9ef" font-size="16" letter-spacing="2.8">FULL-STACK DEVELOPER</text>
-      <text x="55" y="193" fill="url(#type)" font-size="102" font-weight="700" letter-spacing="-5">Fristsnow</text>
-      <text x="61" y="244" fill="#bbc8e3" font-size="20" letter-spacing="1.3">Vue interfaces  /  Java services</text>
+      <path d="M60 91h25" stroke="#718598" stroke-width="2"/>
+      <text x="98" y="96" fill="#697584" font-size="16" letter-spacing="2.8">FULL-STACK DEVELOPER</text>
+      <text x="55" y="193" fill="#697584" font-size="102" font-weight="700" letter-spacing="-5">Fristsnow</text>
+      <text x="61" y="244" fill="#697584" font-size="20" letter-spacing="1.3">Vue interfaces  /  Java services</text>
     </g>
   </g>
-  <rect x=".5" y="53.5" width="999" height="221" rx="18" fill="none" stroke="#777fb1" stroke-opacity=".44"/>
+  <rect x=".5" y="53.5" width="999" height="221" rx="18" fill="none" stroke="#8b99a6" stroke-opacity=".44"/>
 </svg>
