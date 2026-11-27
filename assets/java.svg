@@ -1,7 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="400" height="62" viewBox="0 0 400 62">
-  <title>Java</title>
-
-  <path d="M18 31h13" stroke="#697584" stroke-width="2" stroke-linecap="round"/>
-  <text x="42" y="39" fill="#697584" font-family="Verdana, sans-serif" font-size="23" font-weight="700">Java</text>
-  <path d="M330 34h38v8a19 19 0 0 1-38 0zm38 2h6a6 6 0 0 1 0 12h-8m-19-19c-9-7 10-9 5-17" transform="translate(0 -4)" fill="none" stroke="#697584" stroke-width="2" opacity=".72" stroke-linecap="round" stroke-linejoin="round"/>
-</svg>
