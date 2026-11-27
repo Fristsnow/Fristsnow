@@ -1,0 +1,84 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="960" height="290" viewBox="0 0 960 290">
+  <title>Fristsnow — Full-stack development</title>
+  <defs>
+    <linearGradient id="night" x2="100%" y2="100%" gradientUnits="objectBoundingBox">
+      <stop stop-color="#07111f"/><stop offset="1" stop-color="#102b46"/>
+    </linearGradient>
+    <radialGradient id="halo">
+      <stop stop-color="#397fac" stop-opacity=".54"/><stop offset="1" stop-color="#397fac" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0v32" fill="none" stroke="#a6daff" stroke-opacity=".09"/>
+    </pattern>
+    <clipPath id="frame"><rect width="960" height="290" rx="20"/></clipPath>
+  </defs>
+  <g clip-path="url(#frame)">
+    <rect width="960" height="290" fill="url(#night)"/>
+    <ellipse cx="745" cy="138" rx="310" ry="225" fill="url(#halo)"/>
+    <rect width="960" height="290" fill="url(#grid)"/>
+    <g fill="none" stroke="#84cfff" opacity=".32">
+      <ellipse cx="750" cy="145" rx="150" ry="54" transform="rotate(-25 750 145)"/>
+      <ellipse cx="750" cy="145" rx="122" ry="90" transform="rotate(38 750 145)"/>
+      <circle cx="750" cy="145" r="69" stroke-dasharray="2 7"/>
+    </g>
+    <g fill="none" stroke="#d6f4ff" stroke-width="2" stroke-linecap="round">
+      <path id="arm" d="M750 145V99m-10 13 10 9 10-9"/>
+      <use xlink:href="#arm" transform="rotate(60 750 145)"/>
+      <use xlink:href="#arm" transform="rotate(120 750 145)"/>
+      <use xlink:href="#arm" transform="rotate(180 750 145)"/>
+      <use xlink:href="#arm" transform="rotate(240 750 145)"/>
+      <use xlink:href="#arm" transform="rotate(300 750 145)"/>
+    </g>
+    <circle cx='793' cy='210' r='1.42' fill='#bceaff' opacity='.65'><animateTransform attributeName='transform' type='translate' values='0 0; 18 -18; 0 0' dur='7s' begin='-2s' repeatCount='indefinite'/></circle>
+    <circle cx='153' cy='8' r='1.8399999999999999' fill='#bceaff' opacity='.23'><animateTransform attributeName='transform' type='translate' values='0 0; 23 -18; 0 0' dur='7s' begin='-1s' repeatCount='indefinite'/></circle>
+    <circle cx='181' cy='157' r='2.26' fill='#bceaff' opacity='.23'><animateTransform attributeName='transform' type='translate' values='0 0; 11 -18; 0 0' dur='9s' begin='-7s' repeatCount='indefinite'/></circle>
+    <circle cx='850' cy='66' r='1' fill='#bceaff' opacity='.65'><animateTransform attributeName='transform' type='translate' values='0 0; 19 -18; 0 0' dur='8s' begin='-6s' repeatCount='indefinite'/></circle>
+    <circle cx='389' cy='137' r='1.42' fill='#bceaff' opacity='.23'><animateTransform attributeName='transform' type='translate' values='0 0; 16 -18; 0 0' dur='8s' begin='-2s' repeatCount='indefinite'/></circle>
+    <circle cx='850' cy='48' r='1.8399999999999999' fill='#bceaff' opacity='.65'><animateTransform attributeName='transform' type='translate' values='0 0; 14 -18; 0 0' dur='5s' begin='-4s' repeatCount='indefinite'/></circle>
+    <circle cx='154' cy='162' r='2.26' fill='#bceaff' opacity='.23'><animateTransform attributeName='transform' type='translate' values='0 0; 10 -18; 0 0' dur='10s' begin='-0s' repeatCount='indefinite'/></circle>
+    <circle cx='888' cy='116' r='1' fill='#bceaff' opacity='.65'><animateTransform attributeName='transform' type='translate' values='0 0; 20 -18; 0 0' dur='12s' begin='-3s' repeatCount='indefinite'/></circle>
+    <circle cx='227' cy='67' r='1.42' fill='#bceaff' opacity='.23'><animateTransform attributeName='transform' type='translate' values='0 0; 17 -18; 0 0' dur='7s' begin='-0s' repeatCount='indefinite'/></circle>
+    <circle cx='548' cy='151' r='1.8399999999999999' fill='#bceaff' opacity='.65'><animateTransform attributeName='transform' type='translate' values='0 0; 22 -18; 0 0' dur='11s' begin='-8s' repeatCount='indefinite'/></circle>
+    <circle cx='524' cy='251' r='2.26' fill='#bceaff' opacity='.65'><animateTransform attributeName='transform' type='translate' values='0 0; 11 -18; 0 0' dur='12s' begin='-7s' repeatCount='indefinite'/></circle>
+    <circle cx='347' cy='58' r='1' fill='#bceaff' opacity='.23'><animateTransform attributeName='transform' type='translate' values='0 0; 10 -18; 0 0' dur='12s' begin='-6s' repeatCount='indefinite'/></circle>
+    <circle cx='14' cy='168' r='1.42' fill='#bceaff' opacity='.23'><animateTransform attributeName='transform' type='translate' values='0 0; 23 -18; 0 0' dur='8s' begin='-0s' repeatCount='indefinite'/></circle>
+    <circle cx='591' cy='115' r='1.8399999999999999' fill='#bceaff' opacity='.65'><animateTransform attributeName='transform' type='translate' values='0 0; 16 -18; 0 0' dur='8s' begin='-7s' repeatCount='indefinite'/></circle>
+    <circle cx='476' cy='125' r='2.26' fill='#bceaff' opacity='.23'><animateTransform attributeName='transform' type='translate' values='0 0; 20 -18; 0 0' dur='5s' begin='-2s' repeatCount='indefinite'/></circle>
+    <circle cx='184' cy='256' r='1' fill='#bceaff' opacity='.23'><animateTransform attributeName='transform' type='translate' values='0 0; 11 -18; 0 0' dur='7s' begin='-5s' repeatCount='indefinite'/></circle>
+    <circle cx='356' cy='81' r='1.42' fill='#bceaff' opacity='.23'><animateTransform attributeName='transform' type='translate' values='0 0; 18 -18; 0 0' dur='6s' begin='-1s' repeatCount='indefinite'/></circle>
+    <circle cx='260' cy='96' r='1.8399999999999999' fill='#bceaff' opacity='.23'><animateTransform attributeName='transform' type='translate' values='0 0; 10 -18; 0 0' dur='5s' begin='-3s' repeatCount='indefinite'/></circle>
+    <circle cx='714' cy='68' r='2.26' fill='#bceaff' opacity='.65'><animateTransform attributeName='transform' type='translate' values='0 0; 20 -18; 0 0' dur='8s' begin='-2s' repeatCount='indefinite'/></circle>
+    <circle cx='618' cy='72' r='1' fill='#bceaff' opacity='.65'><animateTransform attributeName='transform' type='translate' values='0 0; 9 -18; 0 0' dur='7s' begin='-3s' repeatCount='indefinite'/></circle>
+    <circle cx='177' cy='280' r='1.42' fill='#bceaff' opacity='.23'><animateTransform attributeName='transform' type='translate' values='0 0; 14 -18; 0 0' dur='11s' begin='-3s' repeatCount='indefinite'/></circle>
+    <circle cx='117' cy='40' r='1.8399999999999999' fill='#bceaff' opacity='.23'><animateTransform attributeName='transform' type='translate' values='0 0; 9 -18; 0 0' dur='8s' begin='-3s' repeatCount='indefinite'/></circle>
+    <circle cx='436' cy='270' r='2.26' fill='#bceaff' opacity='.23'><animateTransform attributeName='transform' type='translate' values='0 0; 21 -18; 0 0' dur='6s' begin='-0s' repeatCount='indefinite'/></circle>
+    <circle cx='705' cy='269' r='1' fill='#bceaff' opacity='.65'><animateTransform attributeName='transform' type='translate' values='0 0; 20 -18; 0 0' dur='6s' begin='-4s' repeatCount='indefinite'/></circle>
+    <circle cx='286' cy='69' r='1.42' fill='#bceaff' opacity='.23'><animateTransform attributeName='transform' type='translate' values='0 0; 15 -18; 0 0' dur='10s' begin='-1s' repeatCount='indefinite'/></circle>
+    <circle cx='269' cy='179' r='1.8399999999999999' fill='#bceaff' opacity='.23'><animateTransform attributeName='transform' type='translate' values='0 0; 12 -18; 0 0' dur='11s' begin='-9s' repeatCount='indefinite'/></circle>
+    <circle cx='907' cy='235' r='2.26' fill='#bceaff' opacity='.65'><animateTransform attributeName='transform' type='translate' values='0 0; 23 -18; 0 0' dur='11s' begin='-6s' repeatCount='indefinite'/></circle>
+    <circle cx='361' cy='236' r='1' fill='#bceaff' opacity='.23'><animateTransform attributeName='transform' type='translate' values='0 0; 20 -18; 0 0' dur='12s' begin='-1s' repeatCount='indefinite'/></circle>
+    <circle cx='147' cy='62' r='1.42' fill='#bceaff' opacity='.23'><animateTransform attributeName='transform' type='translate' values='0 0; 19 -18; 0 0' dur='10s' begin='-2s' repeatCount='indefinite'/></circle>
+    <circle cx='753' cy='108' r='1.8399999999999999' fill='#bceaff' opacity='.65'><animateTransform attributeName='transform' type='translate' values='0 0; 17 -18; 0 0' dur='7s' begin='-3s' repeatCount='indefinite'/></circle>
+    <circle cx='661' cy='135' r='2.26' fill='#bceaff' opacity='.65'><animateTransform attributeName='transform' type='translate' values='0 0; 21 -18; 0 0' dur='8s' begin='-1s' repeatCount='indefinite'/></circle>
+    <circle cx='908' cy='153' r='1' fill='#bceaff' opacity='.65'><animateTransform attributeName='transform' type='translate' values='0 0; 19 -18; 0 0' dur='10s' begin='-0s' repeatCount='indefinite'/></circle>
+    <circle cx='472' cy='231' r='1.42' fill='#bceaff' opacity='.23'><animateTransform attributeName='transform' type='translate' values='0 0; 12 -18; 0 0' dur='9s' begin='-4s' repeatCount='indefinite'/></circle>
+    <circle cx='597' cy='278' r='1.8399999999999999' fill='#bceaff' opacity='.65'><animateTransform attributeName='transform' type='translate' values='0 0; 8 -18; 0 0' dur='9s' begin='-6s' repeatCount='indefinite'/></circle>
+    <circle cx='863' cy='51' r='2.26' fill='#bceaff' opacity='.65'><animateTransform attributeName='transform' type='translate' values='0 0; 21 -18; 0 0' dur='5s' begin='-3s' repeatCount='indefinite'/></circle>
+    <circle cx='97' cy='148' r='1' fill='#bceaff' opacity='.23'><animateTransform attributeName='transform' type='translate' values='0 0; 21 -18; 0 0' dur='8s' begin='-3s' repeatCount='indefinite'/></circle>
+    <circle cx='866' cy='13' r='1.42' fill='#bceaff' opacity='.65'><animateTransform attributeName='transform' type='translate' values='0 0; 23 -18; 0 0' dur='7s' begin='-1s' repeatCount='indefinite'/></circle>
+    <circle cx='468' cy='273' r='1.8399999999999999' fill='#bceaff' opacity='.23'><animateTransform attributeName='transform' type='translate' values='0 0; 16 -18; 0 0' dur='9s' begin='-5s' repeatCount='indefinite'/></circle>
+    <circle cx='804' cy='44' r='2.26' fill='#bceaff' opacity='.65'><animateTransform attributeName='transform' type='translate' values='0 0; 10 -18; 0 0' dur='12s' begin='-8s' repeatCount='indefinite'/></circle>
+    <circle cx='323' cy='259' r='1' fill='#bceaff' opacity='.23'><animateTransform attributeName='transform' type='translate' values='0 0; 10 -18; 0 0' dur='6s' begin='-3s' repeatCount='indefinite'/></circle>
+    <circle cx='766' cy='93' r='1.42' fill='#bceaff' opacity='.65'><animateTransform attributeName='transform' type='translate' values='0 0; 23 -18; 0 0' dur='9s' begin='-5s' repeatCount='indefinite'/></circle>
+    <circle cx='512' cy='177' r='1.8399999999999999' fill='#bceaff' opacity='.65'><animateTransform attributeName='transform' type='translate' values='0 0; 20 -18; 0 0' dur='11s' begin='-1s' repeatCount='indefinite'/></circle>
+    <circle cx='424' cy='204' r='2.26' fill='#bceaff' opacity='.23'><animateTransform attributeName='transform' type='translate' values='0 0; 11 -18; 0 0' dur='6s' begin='-0s' repeatCount='indefinite'/></circle>
+    <circle cx='454' cy='237' r='1' fill='#bceaff' opacity='.23'><animateTransform attributeName='transform' type='translate' values='0 0; 23 -18; 0 0' dur='7s' begin='-6s' repeatCount='indefinite'/></circle>
+    <circle cx='626' cy='133' r='1.42' fill='#bceaff' opacity='.65'><animateTransform attributeName='transform' type='translate' values='0 0; 15 -18; 0 0' dur='12s' begin='-11s' repeatCount='indefinite'/></circle>
+    <circle cx='736' cy='281' r='1.8399999999999999' fill='#bceaff' opacity='.65'><animateTransform attributeName='transform' type='translate' values='0 0; 23 -18; 0 0' dur='8s' begin='-2s' repeatCount='indefinite'/></circle>
+    <circle cx='176' cy='107' r='2.26' fill='#bceaff' opacity='.23'><animateTransform attributeName='transform' type='translate' values='0 0; 17 -18; 0 0' dur='11s' begin='-6s' repeatCount='indefinite'/></circle>
+    <circle cx='572' cy='13' r='1' fill='#bceaff' opacity='.65'><animateTransform attributeName='transform' type='translate' values='0 0; 14 -18; 0 0' dur='10s' begin='-6s' repeatCount='indefinite'/></circle>
+    <text x="56" y="144" fill="#f0f8ff" font-family="system-ui,sans-serif" font-size="67" font-weight="750">Fristsnow</text>
+    <text x="60" y="187" fill="#a5deff" font-family="system-ui,sans-serif" font-size="18" letter-spacing="2">FULL-STACK DEVELOPMENT</text>
+  </g>
+  <rect x=".5" y=".5" width="959" height="289" rx="20" fill="none" stroke="#75b4d6" stroke-opacity=".35"/>
+</svg>
