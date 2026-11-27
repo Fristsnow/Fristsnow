@@ -4,8 +4,6 @@
     <clipPath id="frame"><rect y="53" width="1000" height="222" rx="18"/></clipPath>
 
 
-    <linearGradient id="ring"><stop stop-color="#8b9eaf"/><stop offset=".55" stop-color="#647c91"/><stop offset="1" stop-color="#9bacba"/></linearGradient>
-
 
 
   </defs>
@@ -127,7 +125,7 @@
       <ellipse cx='848' cy='274' rx='263' ry='148' stroke='url(#ring)' opacity='0.26' transform='rotate(-31 848 274)'/>
     </g>
 
-    <path d="M566 304C610 313 734 285 850 208S1037 38 997 29" fill="none" stroke="url(#ring)" stroke-width="1.5" opacity=".65"/>
+    <path d="M566 304C610 313 734 285 850 208S1037 38 997 29" fill="none" stroke="#748698" stroke-width="1.5" opacity=".65"/>
     <circle r="3.5" fill="#8199ae">
       <animateMotion path="M566 304C610 313 734 285 850 208S1037 38 997 29" dur="7s" repeatCount="indefinite"/>
       <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.12;.87;1" dur="7s" repeatCount="indefinite"/>
@@ -139,5 +137,5 @@
       <text x="61" y="244" fill="#697584" font-size="20" letter-spacing="1.3">Vue interfaces  /  Java services</text>
     </g>
   </g>
-  <rect x=".5" y="53.5" width="999" height="221" rx="18" fill="none" stroke="#8b99a6" stroke-opacity=".44"/>
+
 </svg>
