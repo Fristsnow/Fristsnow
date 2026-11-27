@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="62" viewBox="0 0 400 62">
+  <title>Vue</title>
+  <defs><linearGradient id="bg"><stop stop-color="#121727"/><stop offset="1" stop-color="#102a27"/></linearGradient></defs>
+  <rect x=".5" y=".5" width="399" height="61" rx="11" fill="url(#bg)" stroke="#72f0ba" stroke-opacity=".38"/>
+  <path d="M18 31h13" stroke="#72f0ba" stroke-width="2" stroke-linecap="round"/>
+  <text x="42" y="39" fill="#72f0ba" font-family="Verdana, sans-serif" font-size="23" font-weight="700">Vue</text>
+  <path d="M336 16l18 31 18-31m-52 0 34 49 34-49" transform="translate(0 -4)" fill="none" stroke="#72f0ba" stroke-width="2" opacity=".72" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

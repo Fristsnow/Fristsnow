@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="62" viewBox="0 0 400 62">
+  <title>Java</title>
+  <defs><linearGradient id="bg"><stop stop-color="#121727"/><stop offset="1" stop-color="#34201e"/></linearGradient></defs>
+  <rect x=".5" y=".5" width="399" height="61" rx="11" fill="url(#bg)" stroke="#ffaf81" stroke-opacity=".38"/>
+  <path d="M18 31h13" stroke="#ffaf81" stroke-width="2" stroke-linecap="round"/>
+  <text x="42" y="39" fill="#ffaf81" font-family="Verdana, sans-serif" font-size="23" font-weight="700">Java</text>
+  <path d="M330 34h38v8a19 19 0 0 1-38 0zm38 2h6a6 6 0 0 1 0 12h-8m-19-19c-9-7 10-9 5-17" transform="translate(0 -4)" fill="none" stroke="#ffaf81" stroke-width="2" opacity=".72" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

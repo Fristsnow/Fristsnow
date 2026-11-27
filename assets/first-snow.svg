@@ -1,7 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="330" viewBox="0 0 1000 330">
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="222" viewBox="0 53 1000 222">
   <title>Fristsnow · Full-stack developer</title>
   <defs>
-    <clipPath id="frame"><rect width="1000" height="330" rx="18"/></clipPath>
+    <clipPath id="frame"><rect y="53" width="1000" height="222" rx="18"/></clipPath>
     <linearGradient id="bg" x2="100%" y2="100%"><stop stop-color="#090b16"/><stop offset="1" stop-color="#10132b"/></linearGradient>
     <linearGradient id="type" x2="100%" y2="100%"><stop stop-color="#ffffff"/><stop offset="1" stop-color="#afbaff"/></linearGradient>
     <linearGradient id="ring"><stop stop-color="#43e6ff"/><stop offset=".55" stop-color="#7e72ff"/><stop offset="1" stop-color="#d698ff"/></linearGradient>
@@ -139,5 +139,5 @@
       <text x="61" y="244" fill="#bbc8e3" font-size="20" letter-spacing="1.3">Vue interfaces  /  Java services</text>
     </g>
   </g>
-  <rect x=".5" y=".5" width="999" height="329" rx="18" fill="none" stroke="#777fb1" stroke-opacity=".44"/>
+  <rect x=".5" y="53.5" width="999" height="221" rx="18" fill="none" stroke="#777fb1" stroke-opacity=".44"/>
 </svg>
